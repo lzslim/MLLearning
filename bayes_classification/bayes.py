@@ -6,6 +6,7 @@ import re
 import pdb
 import random
 
+
 class BayesClassifier:
 
 	def __init__(self, filePath):   	#filePath ：{'type1':'path1','type2':'path2'...}
